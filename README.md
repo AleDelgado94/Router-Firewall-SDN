@@ -7,3 +7,4 @@ Implementing Router Firewal in Python with a "new" network technology called SDN
 
  - Network address (int and out, source and destination)
  - Ports (udp protocol, source and destination)
+ - Rules read from file (in and out)
